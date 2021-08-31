@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjalipatil1632
 - 👀 I’m interested in coding,development
-- 🌱 I’m currently working at capgemini as a software engineer
+- 🌱 I’m currently working in capgemini as a software engineer
 - 📫 How to reach me - email- patilanjali1632@gmail.com
 
 <!---
